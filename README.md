@@ -17,3 +17,15 @@ The end-user will have 3 basic functionalities available: A custom personal prof
 ## Scope
 
 This project is unique in the scalability and flexibility of features. We have a fundamental set of practical, social, and convenience features to implement, such as the obvious tracking functionality and a basic level of social interactivity. However, once we are satisfied with the strength of our product, we can move on to creating a much more elaborate experience. We can implement more and more convenient and customizable ways to log work, and more interactivity with friends, as well as potential integration with other services, such as Spotify playlist integration. There is no lack of potential features, and once we achieve initial functionality we can move on to expanding the service to fit the additional needs of our users.
+
+## Acknowledgments
+
+* Sam Darwish
+
+* Sydney Jo
+
+* Colin Mcrae
+
+* Joseph Kim
+
+* Mateus Aragaos
