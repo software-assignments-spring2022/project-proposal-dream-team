@@ -27,3 +27,5 @@ This project is unique in the scalability and flexibility of features. We have a
 * Colin McRae
 
 * Joseph Kim
+
+* Isaac Singer
