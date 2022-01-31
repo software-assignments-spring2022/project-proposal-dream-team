@@ -24,6 +24,6 @@ This project is unique in the scalability and flexibility of features. We have a
 
 * Sydney Jo
 
-* Colin Mcrae
+* Colin McRae
 
 * Joseph Kim
