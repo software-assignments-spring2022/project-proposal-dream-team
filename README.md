@@ -22,7 +22,7 @@ This project is unique in the scalability and flexibility of features. We have a
 
 * Sam Darwish
 
-* Sydney Jo
+* Sydney Jo Presnell
 
 * Colin McRae
 
